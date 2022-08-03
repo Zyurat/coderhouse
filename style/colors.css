@@ -1,0 +1,42 @@
+
+
+body {
+	color: black;
+	background-color: lightgray;
+}
+
+#header{
+	background-color	: whitesmoke;
+	border: 1px black;
+}
+
+.top_sellers{
+	border: 1px black;
+}
+
+/*p {
+
+	text-decoration: underline;
+	text-decoration-color: blueviolet;
+	line-height: 20px;
+	letter-spacing: 10px;
+	color: #4437f2;
+	display: block;
+-inline, inline-block block, none. Los inline no respetan los margin ni padding superiores e inferiores propios ni alrededor, el inline-block sí los respeta-
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+
+}
+p:hover {
+	color: blueviolet;
+}
+/*
+	Margin Espaciado Externo
+	Padding Espaciado Interno
+	Border Limite del elemento
+	Width y height, tamaño del elemento*/
+
