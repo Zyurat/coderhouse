@@ -97,14 +97,14 @@ body {
 	display: flex;
 	flex-direction: column;
 }
-.top_title {
-	@include titulo
-}
 @mixin titulo {
 	border: 3px black;
 	width: 100%;
 	text-align: center;
 	border-style: solid;
+}
+.top_title {
+	@include titulo
 }
 .printer_content {
 	display: flex;
