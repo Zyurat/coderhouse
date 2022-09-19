@@ -107,14 +107,6 @@ body {
 #footer {
   text-align: center; }
 
-.decorative_print_gif {
-  width: 100%;
-  height: 240px;
-  background-image: url("../images/impresora.gif");
-  background-size: 240px;
-  background-repeat: no-repeat;
-  background-position: center; }
-
 .contact_form {
   text-align: center; }
 
